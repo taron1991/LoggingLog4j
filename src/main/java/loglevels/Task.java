@@ -20,6 +20,6 @@ public class Task {
     }
     public void GITTEST(){
         System.out.println("Postroyka");
-        System.out.println();
+        System.out.println("34");
     }
 }
