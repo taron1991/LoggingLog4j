@@ -18,4 +18,7 @@ public class Task {
     public void complete(){
         System.out.println("complete");
     }
+    public void GITTEST(){
+        System.out.println();
+    }
 }
