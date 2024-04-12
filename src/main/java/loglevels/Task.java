@@ -19,6 +19,7 @@ public class Task {
         System.out.println("complete");
     }
     public void GITTEST(){
-        System.out.println("ZILINA");
+        System.out.println("ZILINA1");
+
     }
 }
