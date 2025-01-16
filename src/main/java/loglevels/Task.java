@@ -22,4 +22,5 @@ public class Task {
         System.out.println("ZILINA12");
 
     }
+    int z;
 }
